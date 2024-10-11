@@ -1,6 +1,6 @@
 # LSDB Demo at the MWGaia-DN Introductory School
 
-<img src="https://indico.cern.ch/event/1413524/logo-1468400139.png" alt="Poster">
+![Logo](https://github.com/user-attachments/assets/9e658076-b7df-4d0d-909c-51bd1a088658)
 
 <img src="https://raw.githubusercontent.com/astronomy-commons/lsdb/main/docs/lincc-logo.png" width="300" height="100">
 
