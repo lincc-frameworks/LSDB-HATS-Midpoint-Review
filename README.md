@@ -1,4 +1,4 @@
-# LSDB Demo at the MWGaia-DN Introductory School
+# LSDB Demo at the ADASS 2024
 
 ![Logo](https://github.com/user-attachments/assets/9e658076-b7df-4d0d-909c-51bd1a088658)
 
