@@ -1,0 +1,6 @@
+lsdb
+pyvo
+ipyaladin
+cesium
+scikit-learn
+aiohttp
