@@ -1,16 +1,12 @@
-# LSDB Demo at the ADASS 2024
-
+# LSDB Demo at the Midpoint Review 2025
 ![Logo](https://github.com/user-attachments/assets/9e658076-b7df-4d0d-909c-51bd1a088658)
 
-<img src="https://raw.githubusercontent.com/astronomy-commons/lsdb/main/docs/lincc-logo.png" width="300" height="100">
-
-Demonstration prepared for the [ADASS 2024 conference](https://www.um.edu.mt/events/adass2024/), Valletta, 2024.
-This demo showcases working with HATS-partitioned survey catalogs via [LSDB](https://lsdb.readthedocs.io/en/stable/), and time domain analysis with [nested-dask](https://nested-dask.readthedocs.io/en/stable/).
+Demonstration prepared for the MidPoint Review of LINCC Frameworks, Pittsburgh, 2025.
+This demo showcases working with HATS-partitioned survey catalogs via [LSDB](https://lsdb.readthedocs.io/en/stable/).
 
 ### Main references
 
-* [Slide deck](https://docs.google.com/presentation/d/1MeQK_yhC7xel7ezzFnNMfjsklJx23tfPNnfBd_FgqlE/edit?usp=sharing)
-* [Abstract on ADASS website](https://pretalx.com/adass2024/talk/XM8ANL/)
+* [Slide deck](https://docs.google.com/presentation/d/1l0f3MMwpsQUn4JFcAKxlYRQ5eVZrlKJKtWheTq-lRXU/edit?usp=sharing))
 * LSDB ([on GitHub](https://github.com/astronomy-commons/lsdb)) 
   ([on ReadTheDocs](https://lsdb.readthedocs.io/en/stable/))
 * HATS ([on GitHub](https://github.com/astronomy-commons/hats))
