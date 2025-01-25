@@ -1,5 +1,4 @@
 # LSDB Demo at the Midpoint Review 2025
-![Logo](https://github.com/user-attachments/assets/9e658076-b7df-4d0d-909c-51bd1a088658)
 
 Demonstration prepared for the MidPoint Review of LINCC Frameworks, Pittsburgh, 2025.
 This demo showcases working with HATS-partitioned survey catalogs via [LSDB](https://lsdb.readthedocs.io/en/stable/).
