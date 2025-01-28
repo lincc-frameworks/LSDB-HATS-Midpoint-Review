@@ -1,7 +1,2 @@
 lsdb
-pyvo
-ipyaladin
-cesium
-scikit-learn
-aiohttp
-light-curve --only-binary light-curve
+graphviz
