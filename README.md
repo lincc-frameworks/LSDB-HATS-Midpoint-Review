@@ -40,26 +40,6 @@ In this notebook we will learn how to:
 - Perform crossmatching with existing `LSDB` catalogs
 - Save the results of a science workflow to disk
 
-### [Notebook 2](Notebook_2_Basic_Time_Domain.ipynb)
-
-In this notebook we will learn how to:
-
-- Query and filter catalog data
-- Compute time-series features for LSDB catalogs using `nested-dask`
-- Plot light curves and periodograms
-
-### [Notebook 3](Notebook_3_Vizier_LSDB_Interaction.ipynb)
-
-In this notebook we will learn how to:
-
-- Use VizieR TAP query to access tables and store/handle them in `LSDB`
-- Use those catalogs to perform crossmatching with existing `LSDB` catalogs
-- Perform time-series analysis and exploration with `nested-dask`
-
-## LINCC Tech Talks
-
-Watch the following [LINCC Tech Talk](https://www.youtube.com/watch?v=yoGhI72Vl40) to learn more about LSDB. Other relevant talks can be found in the [LSST Discovery Alliance website](https://lsstdiscoveryalliance.org/programs/tech-talks/).
-
 ## Acknowledgements
 
 This project is supported by Schmidt Sciences.
